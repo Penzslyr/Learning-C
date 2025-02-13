@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-
+#include <stdlib.h> // for atoi
 
 int main(int argc, char *argv[]){  // argc is the number of arguments, argv is the array of arguments
     
